@@ -1,4 +1,4 @@
-<h1 align="center">Best For Javascript Interview:)</h1>
+<h1 align="center">Best For Web Developer Interview:)</h1>
 
 **HTML Interview Questions:**
 
@@ -34,41 +34,27 @@
 |------------|----------------------------------------------------|--------------------------------------------------------|---------------------------------------------------------|
 | 1          | Toptal                                             | [Link](https://www.toptal.com/javascript/interview-questions) | ES6 Interview Questions and Answers                     |
 | 2          | FullStack.Cafe                                     | [Link](https://www.fullstack.cafe/interview-questions/es6) | ES6 Interview Questions and Answers                     |
-| 3          | JavaScript.info                                    | [Link](https://javascript.info/es6-interview-questions) | ES6 Interview Questions and Answers                     |
-| 4          | DEV Community                                      | [Link](https://dev.to/sarah_chima/10-javascript-es6-interview-questions-you-should-know-574j) | 10 JavaScript ES6 Interview Questions                    |
-| 5          | Medium                                             | [Link](https://medium.com/@melanieshimano/es6-interview-questions-answers-42eb4f890f6b) | ES6 Interview Questions and Answers                     |
 
 **React Interview Questions:**
 
 | Serial No. | Name                                               | Link                                                   | Short Info                                              |
 |------------|----------------------------------------------------|--------------------------------------------------------|---------------------------------------------------------|
-| 1          | GeeksforGeeks                                      | [Link](https://www.geeksforgeeks.org/reactjs-interview-questions/) | React Interview Questions and Answers                  |
-| 2          | Tutorialspoint                                     | [Link](https://www.tutorialspoint.com/reactjs/reactjs_interview_questions.htm) | React Interview Questions                               |
-| 3          | CareerRide                                         | [Link](https://www.careerride.com/React-Interview-Questions.aspx) | React Interview Questions for Freshers and Experienced |
-| 4          | Toptal                                             | [Link](https://www.toptal.com/react/interview-questions) | React Interview Questions and Answers                  |
-| 5          | React Status                                       | [Link](https://react.statuscode.com/) | Weekly React Interview Questions and News               |
+| 1          | Toptal                                             | [Link](https://www.toptal.com/react/interview-questions) | React Interview Questions and Answers                  |
 
 **Node.js Interview Questions:**
 
 | Serial No. | Name                                               | Link                                                   | Short Info                                              |
 |------------|----------------------------------------------------|--------------------------------------------------------|---------------------------------------------------------|
-| 1          | GeeksforGeeks                                      | [Link](https://www.geeksforgeeks.org/node-js-interview-questions/) | Node.js Interview Questions and Answers                |
-| 2          | Tutorialspoint                                     | [Link](https://www.tutorialspoint.com/nodejs/nodejs_int
-
-erview_questions.htm) | Node.js Interview Questions                             |
-| 3          | CareerRide                                         | [Link](https://www.careerride.com/Node-js-Interview-Questions.aspx) | Node.js Interview Questions for Freshers and Experienced|
-| 4          | Toptal                                             | [Link](https://www.toptal.com/nodejs/interview-questions) | Node.js Interview Questions and Answers                |
-| 5          | RisingStack                                        | [Link](https://blog.risingstack.com/node-js-interview-questions-and-answers-2017/) | Node.js Interview Questions and Answers                |
+| 1          | Tutorialspoint                                     | [Link](https://www.tutorialspoint.com/nodejs/nodejs_interview_questions.htm) | Node.js Interview Questions                             |
+| 2          | Toptal                                             | [Link](https://www.toptal.com/nodejs/interview-questions) | Node.js Interview Questions and Answers                |
+| 3          | RisingStack                                        | [Link](https://blog.risingstack.com/node-js-interview-questions-and-answers-2017/) | Node.js Interview Questions and Answers                |
 
 **MongoDB Interview Questions:**
 
 | Serial No. | Name                                               | Link                                                   | Short Info                                              |
 |------------|----------------------------------------------------|--------------------------------------------------------|---------------------------------------------------------|
-| 1          | GeeksforGeeks                                      | [Link](https://www.geeksforgeeks.org/mongodb-interview-questions/) | MongoDB Interview Questions and Answers               |
-| 2          | Tutorialspoint                                     | [Link](https://www.tutorialspoint.com/mongodb/mongodb_interview_questions.htm) | MongoDB Interview Questions                            |
-| 3          | CareerRide                                         | [Link](https://www.careerride.com/MongoDB-Interview-Questions.aspx) | MongoDB Interview Questions for Freshers and Experienced|
-| 4          | Toptal                                             | [Link](https://www.toptal.com/mongodb/interview-questions) | MongoDB Interview Questions and Answers               |
-| 5          | MongoDB University                                 | [Link](https://university.mongodb.com/courses/M001/about) | MongoDB University's Official Course and Interview Prep|
+| 1          | Tutorialspoint                                     | [Link](https://www.tutorialspoint.com/mongodb/mongodb_interview_questions.htm) | MongoDB Interview Questions                            |
+| 2          | Toptal                                             | [Link](https://www.toptal.com/mongodb/interview-questions) | MongoDB Interview Questions and Answers               |
 
 
 
@@ -87,3 +73,49 @@ erview_questions.htm) | Node.js Interview Questions                             
 | 8          | JavaScript-Interview-Questions-ES6                 | [GitHub](https://github.com/khan4019/javascript-Interview-Questions) | JavaScript interview questions with ES6 syntax         |
 | 9          | JavaScript-Interview-Questions                     | [GitHub](https://github.com/ganqqwerty/123-Essential-JavaScript-Interview-Questions) | Essential JavaScript interview questions              |
 | 10         | JavaScript-Interview-Questions                     | [GitHub](https://github.com/learning-zone/javascript-interview-questions) | JavaScript interview questions and solutions           |
+
+
+**HTML Interview Questions GitHub Repo:**
+
+| Serial No. | Name                                               | Link                                                   | Short Info                                              |
+|------------|----------------------------------------------------|--------------------------------------------------------|---------------------------------------------------------|
+| 1          | HTML Interview Questions                           | [GitHub](https://github.com/learning-zone/html-interview-questions) | A collection of HTML interview questions and answers    |
+
+**CSS Interview Questions GitHub Repo:**
+
+| Serial No. | Name                                               | Link                                                   | Short Info                                              |
+|------------|----------------------------------------------------|--------------------------------------------------------|---------------------------------------------------------|
+| 1          | CSS Interview Questions                            | [GitHub](https://github.com/learning-zone/css-interview-questions) | A collection of CSS interview questions and answers     |
+| 2          | Front-end Developer Interview Questions            | [GitHub](https://github.com/h5bp/Front-end-Developer-Interview-Questions) | A comprehensive list of front-end developer interview questions and answers |
+
+**MongoDB Interview Questions GitHub Repo:**
+
+| Serial No. | Name                                               | Link                                                   | Short Info                                              |
+|------------|----------------------------------------------------|--------------------------------------------------------|---------------------------------------------------------|
+| 1          | MongoDB Interview Questions                        | [GitHub](https://github.com/learning-zone/mongodb-interview-questions) | A collection of MongoDB interview questions and answers |
+| 2          | Awesome MongoDB                                    | [GitHub](https://github.com/ramnes/awesome-mongodb)      | A curated list of MongoDB resources, tools, and tutorials |
+
+**ES6 Interview Questions GitHub Repo:**
+
+| Serial No. | Name                                               | Link                                                   | Short Info                                              |
+|------------|----------------------------------------------------|--------------------------------------------------------|---------------------------------------------------------|
+| 1          | ES6 Interview Questions                            | [GitHub](https://github.com/learning-zone/es6-interview-questions) | A collection of ES6 interview questions and answers     |
+
+**React.js Interview Questions GitHub Repo:**
+
+| Serial No. | Name                                               | Link                                                   | Short Info                                              |
+|------------|----------------------------------------------------|--------------------------------------------------------|---------------------------------------------------------|
+| 1          | React Interview Questions                          | [GitHub](https://github.com/sudheerj/reactjs-interview-questions) | A collection of React.js interview questions and answers |
+
+**Node.js Interview Questions GitHub Repo:**
+
+| Serial No. | Name                                               | Link                                                   | Short Info                                              |
+|------------|----------------------------------------------------|--------------------------------------------------------|---------------------------------------------------------|
+| 1          | Node.js Interview Questions                        | [GitHub](https://github.com/learning-zone/nodejs-interview-questions) | A collection of Node.js interview questions and answers |
+| 2          | Awesome Node.js                                    | [GitHub](https://github.com/sindresorhus/awesome-nodejs) | A curated list of awesome Node.js resources, libraries, and tools |
+
+**Interview Questions GitHub Repo:**
+
+| Serial No. | Name                                               | Link                                                   | Short Info                                              |
+|------------|----------------------------------------------------|--------------------------------------------------------|---------------------------------------------------------|
+| 1          | Interview-Questions                                | [GitHub](https://github.com/MaximAbramchuck/awesome-interview-questions) | A curated list of interview questions across various technologies |
