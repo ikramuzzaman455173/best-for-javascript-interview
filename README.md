@@ -2,23 +2,23 @@
 
 **HTML Interview Questions:**
 
-| Serial No. | Name                                               | Link                                                   | Short Info                                              |
-|------------|----------------------------------------------------|--------------------------------------------------------|---------------------------------------------------------|
-| 1          | GeeksforGeeks                                      | [Link](https://www.geeksforgeeks.org/html-interview-questions-answers/) | HTML Interview Questions and Answers                   |
-| 2          | Tutorialspoint                                     | [Link](https://www.tutorialspoint.com/html/html_interview_questions.htm) | HTML Interview Questions                                |
-| 3          | CareerRide                                         | [Link](https://www.careerride.com/HTML-Interview-Questions.aspx) | HTML Interview Questions for Freshers and Experienced  |
-| 4          | W3Schools                                          | [Link](https://www.w3schools.in/category/html-interview-questions/) | HTML Interview Questions and Answers                   |
-| 5          | HTML.com                                           | [Link](https://html.com/interview/) | HTML Interview Questions and Answers                   |
+| Serial No. | Name           | Link                                                                                     | Short Info                               |
+|------------|----------------|------------------------------------------------------------------------------------------|------------------------------------------|
+| 1          | InterviewBit   | [Link](https://www.interviewbit.com/html-interview-questions/)                           | HTML Interview Questions and Answers     |
+| 2          | JavaTpoint     | [Link](https://www.javatpoint.com/html-interview-questions)                               | HTML Interview Questions with Detailed Answers |
+| 3          | Indeed         | [Link](https://www.indeed.com/career-advice/interviewing/html-interview-questions)        | HTML Interview Questions for Job Interviews |
+| 4          | CareerCup      | [Link](https://www.careercup.com/page?pid=html-interview-questions)                      | HTML Interview Questions and Solutions    |
+
+
 
 **CSS Interview Questions:**
 
 | Serial No. | Name                                               | Link                                                   | Short Info                                              |
 |------------|----------------------------------------------------|--------------------------------------------------------|---------------------------------------------------------|
-| 1          | GeeksforGeeks                                      | [Link](https://www.geeksforgeeks.org/css-interview-questions-answers/) | CSS Interview Questions and Answers                    |
-| 2          | Tutorialspoint                                     | [Link](https://www.tutorialspoint.com/css/css_interview_questions.htm) | CSS Interview Questions                                 |
-| 3          | CareerRide                                         | [Link](https://www.careerride.com/CSS-Interview-Questions.aspx) | CSS Interview Questions for Freshers and Experienced   |
-| 4          | Toptal                                             | [Link](https://www.toptal.com/css/interview-questions) | CSS Interview Questions and Answers                    |
-| 5          | CSS-Tricks                                         | [Link](https://css-tricks.com/interview-questions-css/) | Common CSS Interview Questions and Answers              |
+| 1          | GeeksforGeeks                                      | [Link](https://www.geeksforgeeks.org/css-interview-questions-answers/) | CSS Interview Questions and Answers    |
+| 2          | Tutorialspoint                                     | [Link](https://www.tutorialspoint.com/css/css_interview_questions.htm) | CSS Interview Questions        
+| 3          | Toptal                                             | [Link](https://www.toptal.com/css/interview-questions) | CSS Interview Questions and Answers                    |
+| 4          | CSS-Tricks                                         | [Link](https://css-tricks.com/interview-questions-css/) | Common CSS Interview Questions and Answers              |
 
 **JavaScript Interview Questions:**
 
@@ -26,9 +26,7 @@
 |------------|----------------------------------------------------|--------------------------------------------------------|---------------------------------------------------------|
 | 1          | GeeksforGeeks                                      | [Link](https://www.geeksforgeeks.org/javascript-interview-questions/) | JavaScript Interview Questions and Answers              |
 | 2          | Tutorialspoint                                     | [Link](https://www.tutorialspoint.com/javascript/javascript_interview_questions.htm) | JavaScript Interview Questions                           |
-| 3          | CareerRide                                         | [Link](https://www.careerride.com/JavaScript-Interview-Questions.aspx) | JavaScript Interview Questions for Freshers and Experienced |
 | 4          | Toptal                                             | [Link](https://www.toptal.com/javascript/interview-questions) | JavaScript Interview Questions and Answers              |
-| 5          | JavaScript.com                                     | [Link](https://www.javascript.com/learn/interview-questions) | JavaScript Interview Questions                           |
 
 **ES6 Interview Questions:**
 
